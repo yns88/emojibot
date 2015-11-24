@@ -1,6 +1,5 @@
 *.pyc
 /rtmbot.conf
-/plugins/**
 env
 .idea
-
+emoji-env
