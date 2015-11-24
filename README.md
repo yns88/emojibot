@@ -9,6 +9,7 @@ Installation
 1. Clone the repo
 
         git clone git@github.com:yns88/emojibot.git
+        cd emojibot
 
 2. Install dependencies:
 
@@ -18,8 +19,6 @@ Installation
         
         cp example_rtmbot.conf rtmbot.conf
         vi rtmbot.conf
-
-*Note*: At this point rtmbot is ready to run, however no plugins are configured.
 
 Running the Bot
 -------
