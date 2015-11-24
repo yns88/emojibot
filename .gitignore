@@ -1,0 +1,6 @@
+*.pyc
+/rtmbot.conf
+/plugins/**
+env
+.idea
+
