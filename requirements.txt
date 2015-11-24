@@ -3,3 +3,5 @@ python-daemon
 pyyaml
 websocket-client
 slackclient
+Google-Search-API
+Pillow
